@@ -1,0 +1,497 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "CMakeCCompilerId.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/CMakeFiles/3.26.0/CompilerIdC",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/build/CMakeFiles/3.26.0/CompilerIdC/CMakeCCompilerId.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-v",
+      "-c",
+      "-o",
+      "CMakeFiles/cmTC_1fc9f.dir/CMakeCCompilerABI.c.o",
+      "/usr/local/share/cmake-3.26/Modules/CMakeCCompilerABI.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/CMakeFiles/CMakeScratch/TryCompile-O6pqnn",
+    "file": "/usr/local/share/cmake-3.26/Modules/CMakeCCompilerABI.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/CMakeFiles/CMakeScratch/TryCompile-O6pqnn/CMakeFiles/cmTC_1fc9f.dir/CMakeCCompilerABI.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/context.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/context.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/context.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/context.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/init.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/init.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/init.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/init.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/input.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/input.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/input.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/input.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/monitor.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/monitor.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/monitor.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/monitor.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/platform.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/platform.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/platform.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/platform.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/vulkan.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/vulkan.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/vulkan.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/vulkan.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/window.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/window.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/window.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/window.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/egl_context.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/egl_context.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/egl_context.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/egl_context.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/osmesa_context.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/osmesa_context.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/osmesa_context.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/null_init.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_init.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_init.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/null_init.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/null_monitor.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_monitor.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_monitor.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/null_window.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_window.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_window.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/null_window.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/null_joystick.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_joystick.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/null_joystick.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/posix_module.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_module.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_module.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/posix_module.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/posix_time.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_time.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_time.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/posix_time.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/posix_thread.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_thread.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_thread.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/wl_init.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/wl_init.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/wl_init.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/wl_init.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/wl_monitor.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/wl_monitor.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/wl_monitor.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/wl_monitor.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/wl_window.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/wl_window.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/wl_window.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/wl_window.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/linux_joystick.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/linux_joystick.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/linux_joystick.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-DHAVE_MEMFD_CREATE",
+      "-D_DEFAULT_SOURCE",
+      "-D_GLFW_WAYLAND",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/include",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/src",
+      "-I/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+      "-std=c99",
+      "-fPIC",
+      "-Wall",
+      "-c",
+      "-o",
+      "CMakeFiles/glfw.dir/posix_poll.c.o",
+      "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_poll.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src",
+    "file": "/home/wazard/Projects/c/opengl/third_party/glfw/src/posix_poll.c",
+    "output": "/home/wazard/Projects/c/opengl/third_party/glfw/build/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude",
+      "-Iglfw-3.4/include/GLFW",
+      "-Wall",
+      "-g",
+      "-o",
+      "build/glad.o",
+      "src/glad.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl",
+    "file": "/home/wazard/Projects/c/opengl/src/glad.c",
+    "output": "/home/wazard/Projects/c/opengl/build/glad.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude",
+      "-Iglfw-3.4/include/GLFW",
+      "-Wall",
+      "-g",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/wazard/Projects/c/opengl",
+    "file": "/home/wazard/Projects/c/opengl/src/main.c",
+    "output": "/home/wazard/Projects/c/opengl/build/main.o"
+  }
+]
